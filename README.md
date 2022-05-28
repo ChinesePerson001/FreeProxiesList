@@ -8,5 +8,5 @@ https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
 
 https://raw.fastgit.org/freefq/free/master/v2
 
-## Free SSR Nodes（ShadowSocksR订阅）:
+## Free SSR Nodes（ShadowSocksR节点）:
 https://www.youneed.win/free-ssr
